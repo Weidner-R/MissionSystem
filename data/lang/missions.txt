@@ -5,3 +5,11 @@ SELECTED_SUCCESSFULLY = !tMission selected successfully
 MISSION_FAILED = !tYou failed your mission
 MISSION_ACCOMPLISHED_CASH = !gCongratulations! !tYou finished your mission, you won $!g%d
 MISSION_ACCOMPLISHED_AP = !gCongratulations! !tYou finished your mission, you won !g%d !tAP
+
+[bp]
+ALIVE_ONLY = !tVoce tem que estar vivo, para poder abrir o menu.
+CHANGED_NEXTMAP = !tVoce pode mudar sua missao no proximo round.
+SELECTED_SUCCESSFULLY = !tSua missao foi selecionada com sucesso.
+MISSION_FAILED = !tQue pena, voce falhou na missao.
+MISSION_ACCOMPLISHED_CASH = !gParabens!!t, voce completou sua missao, voce ganhou $!g%d!y.
+MISSION_ACCOMPLISHED_AP = !gParabens!!t, voce completou sua missao, voce ganhou !g%d !tAP!y.
